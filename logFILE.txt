@@ -1,0 +1,35 @@
+START LOG
+START LOG time:
+
+ NEW REQUEST********************************
+client ip: 147.26.100.201
+Start time: 297950832
+
+ requested file: hw1.txt
+size of target file: 553
+FILE SENT
+ End Time: 297950832
+Time Taken : 0 ms
+Transfer Rate : totalsent: 553
+
+ NEW REQUEST********************************
+client ip: 147.26.100.201
+Start time: 297953832
+
+ requested file: project5.cpp
+size of target file: 6714
+FILE SENT
+ End Time: 297953832
+Time Taken : 0 ms
+Transfer Rate : totalsent: 6714
+
+ NEW REQUEST********************************
+client ip: 147.26.100.201
+Start time: 297957832
+
+ requested file: TEST.pdf
+size of target file: 47472516
+FILE SENT
+ End Time: 297975832
+Time Taken : 18000 ms
+Transfer Rate : totalsent: 47472516
